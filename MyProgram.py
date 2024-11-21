@@ -10,7 +10,8 @@ def multiply(first_number, second_number):
     
 def divide(first_number, second_number):
     return first_number / second_number
-    print(divide)
+
+print("divide")
 
 print(add(-5,7))
 print(subtract(-5,7))
